@@ -1,0 +1,30 @@
+#MainButton {
+	-fx-background-color:#39b54a;
+	-fx-text-fill:yellow;
+	-fx-font-size:36;
+}
+#MainButton:hover{
+	-fx-background-color:yellow;
+	-fx-text-fill:#39b54a;
+}
+#choixMenu {
+	-fx-background-color:#297236;
+}
+#aideButton {
+	-fx-background-color:#39b54a;
+	-fx-text-fill:yellow;
+	-fx-font-size:24;
+}
+#aideButton:hover{
+	-fx-background-color:yellow;
+	-fx-text-fill:#39b54a;
+}
+#aide {
+	-fx-text-align:center;
+	-fx-font-size:20;
+	-fx-text-fill:#39b54a;
+}
+#IntituleNetwork {
+	-fx-font : 36 arial;
+	-fx-text-fill : yellow;
+}

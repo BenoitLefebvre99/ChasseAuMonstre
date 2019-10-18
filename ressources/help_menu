@@ -1,0 +1,14 @@
+Bienvenue dans ce menu de didacticiel.
+Ici vous apprendrez les régles de la chasse au monstre.
+Il y a 2 rôles : le monstre et le chasseur.
+
+Présentation du monstre :
+Son but est de découvrir tout le plateau en restant en vie.
+Chaque tour, il joue avant le chasseur en se déplaçant dans l'une des 4 directions (haut, bas,gauche, droite)
+Il doit se déplacer intelligement afin de tromper les actions du chasseurs.
+
+Présentation du chasseur :
+Son but est de tuer le monstre avant que ce dernier ne finissent l'exploration du plateau.
+Chaque tour, il effectue un tir sur n'importe quel case après le déplacement du monstre.
+Tous ses tirs marquent les cases touchés ainsi le chasseur sait quand le monstre passent sur une case révélée et quand il est passé dessus pour la dernière fois.
+Il doit utiliser ses tirs intelligement afin de tendre des piéges au monstre ou déduire sa position plus efficacement

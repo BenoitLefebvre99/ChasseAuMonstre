@@ -1,0 +1,19 @@
+#main {
+	-fx-background-color:#297236;
+}
+#map {
+}
+#quitter {
+	-fx-background-color:#39b54a;
+	-fx-text-fill:yellow;
+	-fx-font-size:30;
+}
+#LabelTourShot {
+	-fx-text-fill:darkred;
+	-fx-font: 50 arial;
+	-fx-text-alignment:center;
+}
+#TourMenu {
+	-fx-text-fill:yellow;
+	-fx-font-size:50;
+}
